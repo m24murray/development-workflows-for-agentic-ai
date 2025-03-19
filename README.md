@@ -5,6 +5,11 @@ A suggested workflow for developing using agentic GenAI tools (such as Claude Co
 
 
 This is the sequence of prompts and files that should be used:
+1. [spec-prompt.md](https://github.com/m24murray/development-workflows-for-agentic-ai/blob/main/spec-prompt.md)
+2. [spec.md](https://github.com/m24murray/development-workflows-for-agentic-ai/blob/main/spec.md)
+3. [implementation-prompt.md](https://github.com/m24murray/development-workflows-for-agentic-ai/blob/main/implementation-prompt.md)
+4. [implementation-plan.md](https://github.com/m24murray/development-workflows-for-agentic-ai/blob/main/implementation-plan.md)
+5. [development-prompt.md](https://github.com/m24murray/development-workflows-for-agentic-ai/blob/main/development-prompt.md)
 
 ```mermaid
 flowchart TD
@@ -15,10 +20,3 @@ flowchart TD
     E --> D
     E --> F(Done)
 ```
-
-1. [spec-prompt.md](https://github.com/m24murray/development-workflows-for-agentic-ai/blob/main/spec-prompt.md)
-2. [spec.md](https://github.com/m24murray/development-workflows-for-agentic-ai/blob/main/spec.md)
-3. [implementation-prompt.md](https://github.com/m24murray/development-workflows-for-agentic-ai/blob/main/implementation-prompt.md)
-4. [implementation-plan.md](https://github.com/m24murray/development-workflows-for-agentic-ai/blob/main/implementation-plan.md)
-5. [development-prompt.md](https://github.com/m24murray/development-workflows-for-agentic-ai/blob/main/development-prompt.md)
-
