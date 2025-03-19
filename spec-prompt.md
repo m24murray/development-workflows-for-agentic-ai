@@ -1,4 +1,4 @@
-# java-spring-rest-api-mongo.md
+# Spec prompt
 
 You are an expert software engineer/architect and you will help me write a specification for a new app that I want to build.
 
