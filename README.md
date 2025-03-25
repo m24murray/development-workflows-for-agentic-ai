@@ -1,7 +1,7 @@
 # development-workflows-for-agentic-ai
 A suggested workflow for developing using agentic GenAI tools (such as Claude Code)
 
-![Development workflow](/assets/images/development-workflow-1.png). 
+![Development workflow](/assets/images/development-workflow-1.png)
 
 Full workflow can be seen here - [workflow.svg](assets/images/workflow.svg).
 
